@@ -1,12 +1,12 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import NavigationBar from "./NavigationBar";
-import InfoCard from "./InfoCard";
-import SignUpForm from "./SignUpForm";
-import myImage_1 from "./images/bicycle.jpg"; // Import de l'image locale
-import myImage_2 from "./images/bicycle2.jpg"; // Import de l'image locale
-import myImage_3 from "./images/traveler.jpg"; // Import de l'image locale
-import UserTable from "./components/UserTable";
+import NavigationBar from "../components/NavigationBar";
+import InfoCard from "../components/InfoCard";
+import SignUpForm from "../components/SignUpForm";
+import myImage_1 from "../images/bicycle.jpg"; // Import de l'image locale
+import myImage_2 from "../images/bicycle2.jpg"; // Import de l'image locale
+import myImage_3 from "../images/traveler.jpg"; // Import de l'image locale
+import UserTable from "../components/UserTable";
 
 function HomePage() {
   return (

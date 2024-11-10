@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Nav, Button } from "react-bootstrap";
-import logo from "./images/bicycleLOGO.jpg";
+import logo from "../images/bicycleLOGO.jpg";
 function NavigationBar() {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
